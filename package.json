@@ -1,0 +1,23 @@
+{
+    "name": "Deathles Invictuz",
+    "version": "",
+    "description": "Rexz Botz",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "npm:@shennmine/baileys",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+        "figlet": "^1.8.1",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "pino": "^9.5.0",
+        "@octokit/rest": "latest",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "crypto": "latest",
+        "moment-timezone": "latest"
+    }
+}
