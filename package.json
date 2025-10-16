@@ -7,7 +7,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "@whiskeysockets/baileys": "npm:@shennmine/baileys",
+        "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
         "axios": "^1.6.0",
         "body-parser": "^1.20.3",
         "figlet": "^1.8.1",
